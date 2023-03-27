@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.active{
+  color: red;
+}
+
+img{
+  max-width: 200px;
+}
